@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Monotonality
 - 👀 I’m interested in weightlifting, music, art, and coding
 - 🌱 I’m currently learning web development with python and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on html and css projects
 - 📫 How to reach me adam.j.tor@gmail.com
 
 <!---
