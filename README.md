@@ -37,7 +37,7 @@ I'm always working on something new! Here are some of my recent projects:
 ### 📫 Get In Touch
 
 - **LinkedIn:** [Adam Torres](https://www.linkedin.com/in/adam-venegas-torres/)
-- **Email:** [Your email here]
+- **Email:** adam.j.tor@gmail.com
 - **GitHub:** [Your GitHub username]
 
 ### 🎯 Goals
