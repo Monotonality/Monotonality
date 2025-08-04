@@ -38,7 +38,7 @@ I'm always working on something new! Here are some of my recent projects:
 
 - **LinkedIn:** [Adam Torres](https://www.linkedin.com/in/adam-venegas-torres/)
 - **Email:** adam.j.tor@gmail.com
-- **GitHub:** [Your GitHub username]
+- **GitHub:** [Monotonality](https://github.com/Monotonality)
 
 ### 🎯 Goals
 
@@ -54,13 +54,13 @@ I'm always working on something new! Here are some of my recent projects:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Monotonality&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monotonality&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monotonality&layout=compact&theme=radical" alt="Top Languages" />
 </div>
