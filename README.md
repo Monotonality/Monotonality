@@ -15,8 +15,11 @@ I've been working on personal projects with data organization and data visualiza
 ## 🛠️ Skills & Technologies
 
 **Programming:** Python, Java, JavaScript, C#, Lua, HTML/CSS, SASS
+
 **Frameworks:** React, Django, Bootstrap, Tailwind, Tkinter
+
 **Tools:** Git, GitHub, VS Code, Cursor, BlueJay, Jupyter Notebook
+
 **Areas:** Data Analytics, Machine Learning, Statistical Analysis, Data Visualization
 
 ## 📫 Contact
