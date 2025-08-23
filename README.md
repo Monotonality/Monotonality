@@ -1,51 +1,29 @@
 # 👋 Hi there, I'm Adam Torres
 
-## 🎓 Business Analytics & AI Student
+I'm a Business Analytics & AI student passionate about data-driven decision making and intelligent systems! 🌐
 
-I'm a passionate Business Analytics and Artificial Intelligence major with a love for data-driven decision making and intelligent systems. Currently pursuing my degree while working on exciting projects that combine analytical thinking with cutting-edge AI technologies.
+I've been working on personal projects with data organization and data visualization using AI. 🚀
 
-### 🛠️ Skills & Technologies
+## 🚀 Projects
 
-**Programming Languages:**
-- Python, Java, JavaScript, C++, HTML/CSS
+**[UTDGains]** - A web app that visualizes gym traffic over time and predicts future patterns using data analytics and AI.
 
-**Frameworks & Tools:**
-- React, Node.js, Git, VS Code, IntelliJ IDEA
+**[scriptwrite]** - A secure, encrypted private diary application built with Python and Tkinter, featuring AES-256 encryption and password-based key derivation for personal journaling.
 
-**Areas of Interest:**
-- Data Analytics & Business Intelligence
-- Machine Learning & AI
-- Statistical Analysis
-- Data Visualization
-- Predictive Modeling
+**[Plot Hook]** - A modular text and image storage system web app with cross-referencing, user/admin systems, and content relationship mapping.
 
-### 🚀 Current Projects
+## 🛠️ Skills & Technologies
 
-I'm always working on something new! Here are some of my recent projects:
+**Programming:** Python, Java, JavaScript, C#, Lua, HTML/CSS, SASS
+**Frameworks:** React, Django, Bootstrap, Tailwind, Tkinter
+**Tools:** Git, GitHub, VS Code, Cursor, BlueJay, Jupyter Notebook
+**Areas:** Data Analytics, Machine Learning, Statistical Analysis, Data Visualization
 
-- **[Monotonality]** - A project exploring mathematical concepts and algorithms
-- **[More projects coming soon...]**
-
-### 📚 What I'm Learning
-
-- Machine Learning Algorithms & Deep Learning
-- Business Intelligence Tools (Tableau, Power BI)
-- Statistical Analysis & Data Mining
-- Natural Language Processing
-- Big Data Technologies
-
-### 📫 Get In Touch
+## 📫 Contact
 
 - **LinkedIn:** [Adam Torres](https://www.linkedin.com/in/adam-venegas-torres/)
 - **Email:** adam.j.tor@gmail.com
 - **GitHub:** [Monotonality](https://github.com/Monotonality)
-
-### 🎯 Goals
-
-- Develop AI-powered business solutions
-- Master data analytics and visualization
-- Contribute to machine learning projects
-- Bridge the gap between business and technology
 
 ---
 
