@@ -1,16 +1,16 @@
 # 👋 Hi there, I'm Adam Torres
 
-I'm a Business Analytics & AI student passionate about data-driven decision making and intelligent systems! 🌐
+I'm a Business Analytics & AI student passionate about data-driven decision making and intelligent systems!
 
-I've been working on personal projects with data organization and data visualization using AI. 🚀
+I've been working on personal projects with data organization and data visualization using AI.
 
 ## 🚀 Projects
 
-**[UTDGains]** - A web app that visualizes gym traffic over time and predicts future patterns using data analytics and AI.
+**[UTDGains](https://github.com/Monotonality/UTDGains)** - A web app that visualizes gym traffic over time and predicts future patterns using data analytics and AI.
 
-**[scriptwrite]** - A secure, encrypted private diary application built with Python and Tkinter, featuring AES-256 encryption and password-based key derivation for personal journaling.
+**[scriptwrite](https://github.com/Monotonality/scriptwrite)** - A secure, encrypted private diary application built with Python and Tkinter, featuring AES-256 encryption and password-based key derivation for personal journaling.
 
-**[Plot Hook]** - A modular text and image storage system web app with cross-referencing, user/admin systems, and content relationship mapping.
+**[plot-hook](https://github.com/Monotonality/plot-hook)** - A modular text and image storage system web app with cross-referencing, user/admin systems, and content relationship mapping.
 
 ## 🛠️ Skills & Technologies
 
